@@ -1,1 +1,1 @@
-install.packages("ggrepel")
+install.packages("ggrepel", repos = "http://cran.rstudio.com")
