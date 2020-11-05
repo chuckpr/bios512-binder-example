@@ -3,3 +3,4 @@ channels:
 dependencies:
   - r-base
   - r-tidyverse
+  - gxx_linux-64
